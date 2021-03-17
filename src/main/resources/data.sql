@@ -1,0 +1,1 @@
+INSERT INTO tb_curso (nome,sigla) VALUES('Combate', 'CB');
